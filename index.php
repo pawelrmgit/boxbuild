@@ -30,7 +30,7 @@
                 <div class="logo_text">Аренда бытовок и блок контейнеров с 2008 г.</div></a></div>
             <div class="header_menu">
               <ul class="menu">
-                <li><a href="/czenyi/">Аренда бытовки</a>
+                <li><a href="./catalog.html">Аренда бытовки</a>
                   <ul class="submenu">
                     <li><a href="#">Аренда бытовок в Видном</a></li>
                     <li><a href="#">Аренда бытовок в Домодедово</a></li>
@@ -42,10 +42,10 @@
                     <li><a href="#">Аренда бытовок в Домодедово</a></li>
                   </ul>
                 </li>
-                <li><a href="/dostavka/">Цены</a></li>
-                <li><a href="/czenyi/">Доставка</a></li>
-                <li><a href="/fotogalereya/ ">Фотогалерея</a></li>
-                <li><a href="/kontaktyi/ ">Контакты</a></li>
+                <li><a href="./price.html">Цены</a></li>
+                <li><a href="./delivery.html">Доставка</a></li>
+                <li><a href="./photogallery.html">Фотогалерея</a></li>
+                <li><a href="./contacts.html">Контакты</a></li>
               </ul>
               <div class="header-search"><a class="search_btn" href="#"><i class="icon-search"></i></a>
                 <form class="search_form" method="" action="">
